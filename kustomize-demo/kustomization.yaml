@@ -6,3 +6,4 @@ namePrefix: kustomize-
 resources:
 - nginx-deployemnt.yaml
 - nginx-service.yaml
+
